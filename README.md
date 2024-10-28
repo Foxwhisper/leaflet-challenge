@@ -13,24 +13,21 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
 Get your dataset. To do so, follow these steps:  
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
-3-Data
+![3-Data](https://github.com/user-attachments/assets/8a2ec458-5797-4bfa-adf4-8ec9d7899067)
+
 
 When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
-4-JSON
+![4-JSON](https://github.com/user-attachments/assets/087a4ecd-f235-4699-bd4b-0a8f322bbe96)
 
-Import and visualize the data by doing the following:
 
-Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
+Import and visualize the data by doing the following:\
+* Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.\
+     * Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
+     * Hint: The depth of the earth can be found as the third coordinate for each earthquake.\
 
-Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
-
-Hint: The depth of the earth can be found as the third coordinate for each earthquake.
-
-Include popups that provide additional information about the earthquake when its associated marker is clicked.
-
-Create a legend that will provide context for your map data.
-
-Your visualization should look something like the preceding map.
+* Include popups that provide additional information about the earthquake when its associated marker is clicked.\
+* Create a legend that will provide context for your map data.\
+* Your visualization should look something like the preceding map.\
 
 ### Instructions Part 2: Gather and Plot More Data  
 
