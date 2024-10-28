@@ -1,7 +1,7 @@
 # **leaflet-challenge**
 ## Instructions
 Before You Begin
-Create a new repository for this project called `leaflet-challenge`.\
+Create a new repository for this project called `leaflet-challenge`.  
 Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: Leaflet-Part-1 and Leaflet-Part-2.
 This Challenge uses both HTML and JavaScript, so be sure to add all the necessary files. These will be the main files to run for analysis.
 
@@ -20,18 +20,18 @@ When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you w
 ![4-JSON](https://github.com/user-attachments/assets/087a4ecd-f235-4699-bd4b-0a8f322bbe96)
 
 
-Import and visualize the data by doing the following:\
-* Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.\
+Import and visualize the data by doing the following:  
+* Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.  
      * Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
-     * Hint: The depth of the earth can be found as the third coordinate for each earthquake.\
+     * Hint: The depth of the earth can be found as the third coordinate for each earthquake.  
 
-* Include popups that provide additional information about the earthquake when its associated marker is clicked.\
-* Create a legend that will provide context for your map data.\
-* Your visualization should look something like the preceding map.\
+* Include popups that provide additional information about the earthquake when its associated marker is clicked.  
+* Create a legend that will provide context for your map data.  
+* Your visualization should look something like the preceding map.  
 
 ### Instructions Part 2: Gather and Plot More Data  
 
-Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at `https://github.com/fraxen/tectonicplates`.\
+Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at `https://github.com/fraxen/tectonicplates`.  
 
 This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.  
 
