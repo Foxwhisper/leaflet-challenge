@@ -12,7 +12,7 @@ This Challenge uses both HTML and JavaScript, so be sure to add all the necessar
 Your first task is to visualize an earthquake dataset. Complete the following steps:  
 
 Get your dataset. To do so, follow these steps:  
-The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
+The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the `USGS GeoJSON Feed` page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 ![3-Data](https://github.com/user-attachments/assets/8a2ec458-5797-4bfa-adf4-8ec9d7899067)
 
 
@@ -31,7 +31,8 @@ Import and visualize the data by doing the following:\
 
 ### Instructions Part 2: Gather and Plot More Data  
 
-Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site.  
+Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at `https://github.com/fraxen/tectonicplates`.\
+
 This part is completely optional; you can complete this part as a way to challenge yourself and boost your new skills.  
 
 The following image is an example screenshot of what you should produce:
